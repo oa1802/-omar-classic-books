@@ -8,24 +8,24 @@
 
 <h3>Home Page</h3>
 
-<img src="./public/img/screenshot1.png" width="400px"/>
+<img src="./public/img/screenshot1.png"/>
 
 <h3>Store Page</h3>
 
-<img src="./public/img/screenshot2.png" width="400px"/>
+<img src="./public/img/screenshot2.png"/>
 
 <h3>Payment Page</h3>
 
-<img src="./public/img/screenshot3.png" width="400px"/>
+<img src="./public/img/screenshot3.png"/>
 
 <h3>Delivery Page</h3>
 
-<img src="./public/img/screenshot4.png" width="400px"/>
+<img src="./public/img/screenshot4.png"/>
 
 <h3>Confirmation Page</h3>
 
-<img src="./public/img/screenshot5.png" width="400px"/>
+<img src="./public/img/screenshot5.png"/>
 
 <h3>Order Complete Page</h3>
 
-<img src="./public/img/screenshot6.png" width="400px"/>
+<img src="./public/img/screenshot6.png"/>
