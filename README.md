@@ -1,6 +1,6 @@
 <h1>Omar’s Classic Books E-Commerce Website</h1>
 
-<p>This web application was created as part of a college course for a fictional bookstore in Hoboken, New Jersey. Through the website, books can be selected for purchase and a delivery date can be set for when the books will be received by the customer.</p>
+<p>This web application is for a fictional bookstore in Hoboken, New Jersey. It was created as part of a project for a college course. Through the website, books can be selected for purchase and a delivery date can be set for when the books will be received by the customer.</p>
 
 <p>This website was developed with JavaScript, Vue.js, PHP, Laravel and MySQL.</p>
 
